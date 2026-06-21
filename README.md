@@ -129,4 +129,4 @@ price, and current market price.
 - No macro features (Nifty/Sensex trend, sector, grey market premium) — adding
   these would likely close some of the regressor's gap
 - Regime shift suggests a **rolling retrain** strategy would outperform a static
-  model in production
+  model in production.
